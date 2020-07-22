@@ -84,8 +84,6 @@ if __name__ == "__main__":
             elif 'open cmd' in query:
                 cmd_path = 'C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt'
                 os.startfile(cmd_path)
-            elif 'open coursera' in query:
-                webbrowser.open('https://www.coursera.org/programs/kk-wagh-institute-of-engineering-on-coursera-ilu6j')
             elif 'search on google' in query:
                 print('What to search on google ?')
                 speak('What to search on google ?')
