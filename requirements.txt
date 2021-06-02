@@ -36,5 +36,5 @@ soupsieve==2.0.1
 SpeechRecognition==3.8.1
 tzlocal==2.1
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 win10toast==0.9
